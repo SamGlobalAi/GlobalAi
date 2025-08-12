@@ -1,2 +1,2 @@
 # GlobalAi
-A platform for productive AI Agents
+My Techcrush Journey to building productive AI Agents for businesses
